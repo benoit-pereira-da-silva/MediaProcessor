@@ -16,9 +16,6 @@
 [submodule "MPLib"]
 	path = Submodules/MPLib
 	url = https://github.com/benoit-pereira-da-silva/MPLib
-[submodule "NavetLib"]
-	path = Submodules/NavetLib
-	url = https://github.com/benoit-pereira-da-silva/NavetLib
 [submodule "Submodules/UniversalSupport"]
 	path = Submodules/UniversalSupport
 	url = https://github.com/benoit-pereira-da-silva/UniversalSupport
