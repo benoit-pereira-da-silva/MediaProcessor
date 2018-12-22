@@ -1,0 +1,24 @@
+[submodule "Globals"]
+	path = Submodules/Globals
+	url = https://github.com/benoit-pereira-da-silva/Globals
+[submodule "HMAC"]
+	path = Submodules/HMAC
+	url = https://github.com/benoit-pereira-da-silva/HMAC
+[submodule "AsynchronousOperation"]
+	path = Submodules/AsynchronousOperation
+	url = https://github.com/benoit-pereira-da-silva/AsynchronousOperation
+[submodule "Tolerance"]
+	path = Submodules/Tolerance
+	url = https://github.com/benoit-pereira-da-silva/Tolerance
+[submodule "HTTPClient"]
+	path = Submodules/HTTPClient
+	url = https://github.com/benoit-pereira-da-silva/HTTPClient
+[submodule "MPLib"]
+	path = Submodules/MPLib
+	url = https://github.com/benoit-pereira-da-silva/MPLib
+[submodule "NavetLib"]
+	path = Submodules/NavetLib
+	url = https://github.com/benoit-pereira-da-silva/NavetLib
+[submodule "Submodules/UniversalSupport"]
+	path = Submodules/UniversalSupport
+	url = https://github.com/benoit-pereira-da-silva/UniversalSupport
