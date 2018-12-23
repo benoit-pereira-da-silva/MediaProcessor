@@ -30,6 +30,7 @@ class AutoRunDetectionViewController: XViewController, PrintDelegate {
         let token:String = ""
         let prettyEncode:Bool = true
         let threshold:Int = 40
+        // URL(string: "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4")!
         let movieURL:URL = URL(string:"https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_h264.mov")!
         let starts:Double = 60
         let endsTime:CMTime? = 120.toCMTime()
